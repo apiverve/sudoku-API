@@ -1,4 +1,4 @@
-Sudoku API
+Sudoku Generator API
 ============
 
 Sudoku is a simple tool for generating Sudoku puzzles. It returns a Sudoku puzzle.
@@ -7,7 +7,7 @@ Sudoku is a simple tool for generating Sudoku puzzles. It returns a Sudoku puzzl
 ![Code Climate](https://img.shields.io/badge/maintainability-B-purple)
 ![Prod Ready](https://img.shields.io/badge/production-ready-blue)
 
-This is a Javascript Wrapper for the [Sudoku API](https://apiverve.com/marketplace/api/sudoku)
+This is a Javascript Wrapper for the [Sudoku Generator API](https://apiverve.com/marketplace/api/sudoku)
 
 ---
 
@@ -25,7 +25,7 @@ You can get it by signing up at [https://apiverve.com](https://apiverve.com)
 
 ## Usage
 
-The Sudoku API documentation is found here: [https://docs.apiverve.com/api/sudoku](https://docs.apiverve.com/api/sudoku).  
+The Sudoku Generator API documentation is found here: [https://docs.apiverve.com/api/sudoku](https://docs.apiverve.com/api/sudoku).  
 You can find parameters, example responses, and status codes documented here.
 
 ### Setup
